@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="2061" systemVersion="12D78" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Bill" representedClassName="Bill" syncable="YES">
+        <attribute name="amount" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="dueDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="notes" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="paid" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="utility" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <relationship name="forMeter" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Meter" inverseName="bills" inverseEntity="Meter" syncable="YES"/>
+    </entity>
+    <entity name="Meter" representedClassName="Meter" syncable="YES">
+        <attribute name="meterNumber" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="partnerNumber" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <relationship name="atLocation" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Place" inverseName="meters" inverseEntity="Place" syncable="YES"/>
+        <relationship name="bills" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Bill" inverseName="forMeter" inverseEntity="Bill" syncable="YES"/>
+        <relationship name="ofType" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="MeterType" inverseName="meters" inverseEntity="MeterType" syncable="YES"/>
+        <relationship name="readings" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Reading" inverseName="forMeter" inverseEntity="Reading" syncable="YES"/>
+    </entity>
+    <entity name="MeterType" representedClassName="MeterType" syncable="YES">
+        <attribute name="type" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="meters" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Meter" inverseName="ofType" inverseEntity="Meter" syncable="YES"/>
+    </entity>
+    <entity name="Place" representedClassName="Place" syncable="YES">
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="street" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="meters" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Meter" inverseName="atLocation" inverseEntity="Meter" syncable="YES"/>
+    </entity>
+    <entity name="Reading" representedClassName="Reading" syncable="YES">
+        <attribute name="date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="value" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <relationship name="forMeter" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Meter" inverseName="readings" inverseEntity="Meter" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Bill" positionX="792" positionY="126" width="128" height="133"/>
+        <element name="Meter" positionX="594" positionY="180" width="128" height="133"/>
+        <element name="MeterType" positionX="387" positionY="297" width="128" height="73"/>
+        <element name="Place" positionX="385" positionY="117" width="128" height="103"/>
+        <element name="Reading" positionX="790" positionY="308" width="128" height="88"/>
+    </elements>
+</model>

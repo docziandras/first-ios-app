@@ -1,0 +1,263 @@
+TDatePlot
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/Info.plist Info.plist
+cCompileXIB /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/DatePlot.xib
+cCpResource CorePlotIcon.icns ../../build/Debug/DatePlot.app/Contents/Resources/CorePlotIcon.icns
+cCopyStringsFile /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource BlueTexture.png ../../build/Debug/DatePlot.app/Contents/Resources/BlueTexture.png
+cPBXCp /Users/andras/Downloads/CorePlot_1.2/Source/build/Debug/CorePlot.framework ../../build/Debug/DatePlot.app/Contents/Frameworks/CorePlot.framework
+cProcessPCH /var/folders/ry/8zwpp19d32zfk6gvjy0tjd2h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DatePlot_Prefix-fvfiblqwroiuybcpvkoyoslkvmuo/DatePlot_Prefix.pch.pth DatePlot_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../build/DatePlot.build/Debug/DatePlot.build/Objects-normal/x86_64/main.o /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/Source/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../build/DatePlot.build/Debug/DatePlot.build/Objects-normal/x86_64/Controller.o /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/Controller.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/MacOS/DatePlot normal x86_64
+cTouch /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000516D1CCD00000000000000AA
+t1366105293
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c00000000505B651A00000000000001E5
+t1348166938
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005142E12D000000000004DE20
+t1363337517
+s319008
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000005045E14A0000000000006730
+t1346756938
+s26416
+
+N/Users/andras/Downloads/CorePlot_1.2/Source/build/Debug/CorePlot.framework
+c0000000051798FF500000000000000EE
+t1366921205
+s238
+
+N/Users/andras/Downloads/CorePlot_1.2/Source/build/Debug/CorePlot.framework/CorePlot
+c0000000051798FF5000000000016EB08
+t1366921205
+s1501960
+
+N/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/Objects-normal/x86_64/Controller.o
+t2
+s0
+
+N/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/Objects-normal/x86_64/DatePlot.LinkFileList
+c0000000051798FF5000000000000011C
+t1366921205
+s284
+
+N/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app
+t2
+s0
+
+N/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/Frameworks/CorePlot.framework
+t2
+s0
+
+N/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/Info.plist
+t2
+s0
+
+N/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/MacOS/DatePlot
+t2
+s0
+
+N/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/Resources/BlueTexture.png
+t2
+s0
+
+N/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/Resources/CorePlotIcon.icns
+t2
+s0
+
+N/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/Resources/DatePlot.nib
+t2
+s0
+
+N/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/BlueTexture.png
+c000000005047E5640000000000059EFE
+t1346889060
+s368382
+
+N/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/Controller.m
+c00000000515A1E9D0000000000000D89
+t1364860573
+s3465
+
+N/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/CorePlotIcon.icns
+c000000005047E5640000000000048DD5
+t1346889060
+s298453
+
+N/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/DatePlot.xib
+c000000005047E5640000000000020854
+t1346889060
+s133204
+
+N/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/DatePlot_Prefix.pch
+c000000005047E5640000000000000097
+t1346889060
+s151
+i<Cocoa/Cocoa.h>
+
+N/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/English.lproj/InfoPlist.strings
+c000000005047E564000000000000005C
+t1346889060
+s92
+
+N/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/Source/main.m
+c00000000515A1E9D0000000000000102
+t1364860573
+s258
+
+N/var/folders/ry/8zwpp19d32zfk6gvjy0tjd2h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DatePlot_Prefix-fvfiblqwroiuybcpvkoyoslkvmuo/DatePlot_Prefix.pch.pth
+t2
+s0
+
+NInfo.plist
+c000000005047E5640000000000000363
+t1346889060
+s867
+
+CBuild AST from /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/Controller.m
+r0
+
+CBuild AST from /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/Source/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies6ea5f375c729b741^ac02f575c729b741^---0#1#0#--18"Check dependencies36"B2634C73-E42C-4BA0-977E-DAC1846D17A8-
+
+CCompileC ../../build/DatePlot.build/Debug/DatePlot.build/Objects-normal/x86_64/Controller.o /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/Controller.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388614007.091628
+e388614007.222241
+r1
+xCompileC
+x../../build/DatePlot.build/Debug/DatePlot.build/Objects-normal/x86_64/Controller.o
+x/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/Controller.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/Controller.md3a11777c729b741^0ce53877c729b741^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/Controller.m0000000000000000^3350"CompileC ../../build/DatePlot.build/Debug/DatePlot.build/Objects-normal/x86_64/Controller.o Controller.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/DatePlot-generated-files.hmap -I/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/DatePlot-own-target-headers.hmap -I/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/DatePlot-all-target-headers.hmap -iquote /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/DatePlot-project-headers.hmap -I/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/DerivedSources/x86_64 -I/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/DerivedSources -F/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug -include /var/folders/ry/8zwpp19d32zfk6gvjy0tjd2h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DatePlot_Prefix-fvfiblqwroiuybcpvkoyoslkvmuo/DatePlot_Prefix.pch -MMD -MT dependencies -MF /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/Objects-normal/x86_64/Controller.d --serialize-diagnostics /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/Objects-normal/x86_64/Controller.dia -c /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/Controller.m -o /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/Objects-normal/x86_64/Controller.o36"F6B322C9-DA7B-4FE6-9E59-A8C33A9A178B-
+
+CCompileC ../../build/DatePlot.build/Debug/DatePlot.build/Objects-normal/x86_64/main.o /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/Source/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388614007.091632
+e388614007.144752
+r1
+xCompileC
+x../../build/DatePlot.build/Debug/DatePlot.build/Objects-normal/x86_64/main.o
+x/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/Source/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/Source/main.m6ea11777c729b741^6b0d2577c729b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/Source/main.m0000000000000000^3328"CompileC ../../build/DatePlot.build/Debug/DatePlot.build/Objects-normal/x86_64/main.o Source/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/DatePlot-generated-files.hmap -I/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/DatePlot-own-target-headers.hmap -I/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/DatePlot-all-target-headers.hmap -iquote /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/DatePlot-project-headers.hmap -I/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/DerivedSources/x86_64 -I/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/DerivedSources -F/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug -include /var/folders/ry/8zwpp19d32zfk6gvjy0tjd2h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DatePlot_Prefix-fvfiblqwroiuybcpvkoyoslkvmuo/DatePlot_Prefix.pch -MMD -MT dependencies -MF /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/Objects-normal/x86_64/main.dia -c /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/Source/main.m -o /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/Objects-normal/x86_64/main.o36"7EF9E397-FC61-491F-9043-66B2D8BC58EA-
+
+CCompileXIB /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/DatePlot.xib
+s388614005.998574
+e388614006.068708
+r1
+xCompileXIB
+x/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/DatePlot.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compiling /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/DatePlot.xiba2b8ff75c729b741^d9961176c729b741^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/DatePlot.xib0000000000000000^626"CompileXIB DatePlot.xib    cd /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/Resources/DatePlot.nib /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/DatePlot.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk36"21E8D298-2FC9-496F-9B52-27E4A350BF84-
+
+CCopyStringsFile /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s388614005.998587
+e388614006.003165
+r1
+xCopyStringsFile
+x/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy English.lproj/InfoPlist.strings78b6ff75c729b741^8dcf0076c729b741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/English.lproj/InfoPlist.strings0000000000000000^451"CopyStringsFile ../../build/Debug/DatePlot.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings    cd /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot    builtin-copyStrings --validate --inputencoding utf-16 --outputencoding UTF-16 --outdir /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/Resources/English.lproj -- English.lproj/InfoPlist.strings36"6AFFF389-FAEA-4D6E-9F3C-0D747B745061-
+
+CCpResource BlueTexture.png ../../build/Debug/DatePlot.app/Contents/Resources/BlueTexture.png
+s388614005.998817
+e388614006.005511
+r1
+xCpResource
+xBlueTexture.png
+x../../build/Debug/DatePlot.app/Contents/Resources/BlueTexture.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy ../../build/Debug/DatePlot.app/Contents/Resources/BlueTexture.pngcac2ff75c729b741^0a690176c729b741^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/Resources/BlueTexture.png000000000080d041^464"CpResource BlueTexture.png ../../build/Debug/DatePlot.app/Contents/Resources/BlueTexture.png    cd /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/BlueTexture.png /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/Resources36"0E65A19C-A49F-42BB-8A94-8B29BD3D7304-
+
+CCpResource CorePlotIcon.icns ../../build/Debug/DatePlot.app/Contents/Resources/CorePlotIcon.icns
+s388614005.998592
+e388614006.001584
+r1
+xCpResource
+xCorePlotIcon.icns
+x../../build/Debug/DatePlot.app/Contents/Resources/CorePlotIcon.icns
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy ../../build/Debug/DatePlot.app/Contents/Resources/CorePlotIcon.icnseab3ff75c729b741^be670076c729b741^---0#0#0#-19%DVTDocumentLocation2@145"file://localhost/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/Resources/CorePlotIcon.icns000000000080d041^470"CpResource CorePlotIcon.icns ../../build/Debug/DatePlot.app/Contents/Resources/CorePlotIcon.icns    cd /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/CorePlotIcon.icns /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/Resources36"2917D5A5-F6C5-4B80-9DEF-21856507ED79-
+
+CLd /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/MacOS/DatePlot normal x86_64
+s388614007.229246
+e388614007.270949
+r1
+xLd
+x/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/MacOS/DatePlot
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Link /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/MacOS/DatePlot27c23a77c729b741^965c4577c729b741^---0#0#0#--1018"Ld ../../build/Debug/DatePlot.app/Contents/MacOS/DatePlot normal x86_64    cd /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug -F/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug -filelist /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/Objects-normal/x86_64/DatePlot.LinkFileList -mmacosx-version-min=10.8 -fobjc-link-runtime /Users/andras/Downloads/CorePlot_1.2/Source/build/Debug/CorePlot.framework/CorePlot -framework Cocoa -framework QuartzCore -o /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/MacOS/DatePlot36"103F3AD5-93AC-410A-A8D7-90402D41BBFA-
+
+CPBXCp /Users/andras/Downloads/CorePlot_1.2/Source/build/Debug/CorePlot.framework ../../build/Debug/DatePlot.app/Contents/Frameworks/CorePlot.framework
+s388614006.076518
+e388614006.111052
+r1
+xPBXCp
+x/Users/andras/Downloads/CorePlot_1.2/Source/build/Debug/CorePlot.framework
+x../../build/Debug/DatePlot.app/Contents/Frameworks/CorePlot.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy ../../build/Debug/DatePlot.app/Contents/Frameworks/CorePlot.frameworkc5ac1376c729b741^b16e1c76c729b741^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/Frameworks/CorePlot.framework000000000080d041^520"PBXCp /Users/andras/Downloads/CorePlot_1.2/Source/build/Debug/CorePlot.framework ../../build/Debug/DatePlot.app/Contents/Frameworks/CorePlot.framework    cd /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/andras/Downloads/CorePlot_1.2/Source/build/Debug/CorePlot.framework /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/Frameworks36"141612F8-E9D9-4BF3-9236-EF0BF01F2E6D-
+
+CProcessInfoPlistFile /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/Info.plist Info.plist
+s388614005.968651
+e388614005.990365
+r1
+xProcessInfoPlistFile
+x/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plist0113f875c729b741^e887fd75c729b741^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/Info.plist0000000000000000^468"ProcessInfoPlistFile ../../build/Debug/DatePlot.app/Contents/Info.plist Info.plist    cd /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot    builtin-infoPlistUtility Info.plist -genpkginfo /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app/Contents/Info.plist36"7BF46229-90C1-4803-9F60-0B485FE8E0B5-
+
+CProcessPCH /Users/andras/Library/Developer/Xcode/DerivedData/DatePlot-cjpeiqrqiebicrgbfkdzgguggieg/Index/PrecompiledHeaders/DatePlot_Prefix-fkhqnoierzncbjcrnvwydzdaujka_ast/DatePlot_Prefix.pch.pth DatePlot_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/ry/8zwpp19d32zfk6gvjy0tjd2h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DatePlot_Prefix-fvfiblqwroiuybcpvkoyoslkvmuo/DatePlot_Prefix.pch.pth DatePlot_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388614006.119132
+e388614007.084898
+r1
+xProcessPCH
+x/var/folders/ry/8zwpp19d32zfk6gvjy0tjd2h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DatePlot_Prefix-fvfiblqwroiuybcpvkoyoslkvmuo/DatePlot_Prefix.pch.pth
+xDatePlot_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"Precompile DatePlot_Prefix.pchf8a51e76c729b741^a9bc1577c729b741^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/DatePlot_Prefix.pch0000000000000000^3335"ProcessPCH /var/folders/ry/8zwpp19d32zfk6gvjy0tjd2h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DatePlot_Prefix-fvfiblqwroiuybcpvkoyoslkvmuo/DatePlot_Prefix.pch.pth DatePlot_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/DatePlot-generated-files.hmap -I/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/DatePlot-own-target-headers.hmap -I/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/DatePlot-all-target-headers.hmap -iquote /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/DatePlot-project-headers.hmap -I/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/DerivedSources/x86_64 -I/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/DatePlot.build/Debug/DatePlot.build/DerivedSources -F/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug --serialize-diagnostics /var/folders/ry/8zwpp19d32zfk6gvjy0tjd2h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DatePlot_Prefix-fvfiblqwroiuybcpvkoyoslkvmuo/DatePlot_Prefix.pch.dia -c /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/DatePlot_Prefix.pch -o /var/folders/ry/8zwpp19d32zfk6gvjy0tjd2h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DatePlot_Prefix-fvfiblqwroiuybcpvkoyoslkvmuo/DatePlot_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/ry/8zwpp19d32zfk6gvjy0tjd2h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DatePlot_Prefix-fvfiblqwroiuybcpvkoyoslkvmuo/DatePlot_Prefix.pch.d36"FF77B14A-6C8B-4E5F-97B4-E668C58CB3D4-
+
+CTouch /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app
+s388614007.279557
+e388614007.285875
+r1
+xTouch
+x/Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Touch /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.appeca34777c729b741^d82e4977c729b741^---0#0#0#--221"Touch ../../build/Debug/DatePlot.app    cd /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot    /usr/bin/touch -c /Users/andras/Downloads/CorePlot_1.2/Source/examples/DatePlot/../../build/Debug/DatePlot.app36"469CE6D2-E234-4B4F-A7DF-514717D580D4-
+

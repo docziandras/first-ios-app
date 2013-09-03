@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/Source/CPTGraph.m \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/Source/CPTGraph.h \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/Source/CPTBorderedLayer.h \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/Source/CPTAnnotationHostLayer.h \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/Source/CPTLayer.h \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/Source/CPTDefinitions.h \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/Source/CPTResponder.h \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/MacOnly/CPTPlatformSpecificDefines.h \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/Source/CPTAxis.h \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/Source/CPTTextStyle.h \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/Source/CPTAxisSet.h \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/Source/CPTExceptions.h \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/MacOnly/CPTGraphHostingView.h \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/Source/CPTLayerAnnotation.h \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/Source/CPTAnnotation.h \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/Source/CPTLegend.h \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/Source/CPTMutableTextStyle.h \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/Source/CPTPlot.h \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/Source/CPTNumericDataType.h \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/Source/CPTPlotArea.h \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/Source/CPTPlotAreaFrame.h \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/Source/CPTPlotGroup.h \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/Source/CPTPlotSpace.h \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/Source/CPTTextLayer.h \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/Source/CPTTheme.h \
+  /Users/andras/Downloads/CorePlot_1.2/Source/framework/Source/NSCoderExtensions.h
