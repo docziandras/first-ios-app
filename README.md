@@ -1,4 +1,4 @@
-first-ios-app
+Csekkolj - my first iOS app
 =============
 
 The first iOS app I did as my thesis work at the University of Pannonia.
